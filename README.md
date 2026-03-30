@@ -52,6 +52,18 @@ If a user types something the app doesn't recognize (like "Pizza"), a friendly e
 > **<img width="345" height="608" alt="Screenshot 2026-03-30 194341" src="https://github.com/user-attachments/assets/fdfe58d9-918e-49fc-99eb-9793590a9a5d" />**
 > *Explanation: Instead of crashing, the app provides helpful feedback to guide the user back to the correct inputs.*
 
+## 📚 References
+
+The following resources and tools were used in the development of the "Social Sparks!" application:
+
+**Gemini AI.** (2026). *Technical guidance on Android Studio version control and GitHub Actions*. Available at: https://gemini.google.com/ [Accessed 30 March 2026].
+
+**The Independent Institute of Education (IIE).** (2024). *ADPP6212/A1: Introduction to Mobile Application Development - Assignment Brief*. [Internal Document].
+
+**GitHub.** (2026). *GitHub Actions documentation for Android CI*. Available at: https://docs.github.com/en/actions [Accessed 30 March 2026].
+
+**Google Developers.** (2026). *Android Studio User Guide: Version Control with Git*. Available at: https://developer.android.com/studio/build [Accessed 30 March 2026].
+
 ## 👤 Author
 * **Student Name:** [Tasveer]
 * **Student Number:** ST10520055
